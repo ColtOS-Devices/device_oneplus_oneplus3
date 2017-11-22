@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Copyright (C) 2016 - The CyanogenMod Project
 
 Copyright (C) 2017 - The LineageOS Project
@@ -30,3 +31,8 @@ OnePlus 3T was announced in November 2016. Release date was November 2016.
 ## Device picture
 
 ![OnePlus 3](https://content.oneplus.net/skin/frontend/oneplus2015/default/images/oneplus3/oxygenos/parameter.png "OnePlus 3 in grey")
+=======
+# device_oneplus_oneplus3
+
+Colt Device Tree for OP3/T Unified
+>>>>>>> 38b2294c997227c7a0db10859b1f31db09fcfd3c
